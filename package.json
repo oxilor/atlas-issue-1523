@@ -1,0 +1,9 @@
+{
+  "name": "atlas-issue-1523",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "schema-hash": "sh src/scripts/schema-hash.sh",
+    "schema-apply": "npx dotenv-cli -e .env.development -- sh src/scripts/schema-apply.sh"
+  }
+}
