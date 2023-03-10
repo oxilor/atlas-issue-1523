@@ -1,6 +1,8 @@
 # Atlas [issue 1523](https://github.com/ariga/atlas/issues/1523).
 
-To run the app on the localhost, create a file called `.env.development` in the project root (near `package.json`) and define the environment variables. Use `.env.sample.development` as template.
+## Preparations
+
+Create the file `.env.development` in the project root (near `package.json`) and define the environment variables. Use `.env.sample.development` as template.
 
 ## How to reproduce this bug
 
